@@ -24,18 +24,18 @@
 
 
 <p>
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cdthomp1&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cdthomp1&theme=radical&layout=compact&exclude_lang=java+r" />
-</a>
+  <a href="https://github.com/armandosaldivar-rgb">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=armandosaldivar-rgb&show_icons=true&theme=radical" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=armandosaldivar-rgb&theme=radical&layout=compact" />
+  </a>
 </p>
+
 
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
 <a href="https://www.instagram.com/armandosaldivarmelchor/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-
 <a href="mailto:armandosaldivarmelchor@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 
