@@ -23,10 +23,10 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 
-<p>
+<p align="center">
   <a href="https://github.com/armandosaldivar-rgb">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=armandosaldivar-rgb&show_icons=true&theme=radical" />
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=armandosaldivar-rgb&theme=radical&layout=compact" />
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=armandosaldivar-rgb&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=armandosaldivar-rgb&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>
   </a>
 </p>
 
